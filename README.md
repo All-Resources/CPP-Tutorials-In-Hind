@@ -1,2 +1,2 @@
-# C-Tutorials-In-Hindi-
+# C++ Tutorials-In-Hindi-
 Code with Harry C++ Course
